@@ -9,6 +9,9 @@ html{
     text-align: center;
     padding: 10px 10px 50px 10px;
 }
+.title img {
+    width: 25px;
+}
 .list_prproducts_listoduct .product_item img{
     width: 70%;
     filter: drop-shadow(0px 22px 20px #0009);
