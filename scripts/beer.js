@@ -20,7 +20,8 @@ const addDataToHTML = () => {
       newProductElement.innerHTML = `
       <img src="./images/beer_img.png" alt="no picture" />
       <h2>${element.name}</h2>
-      <div class="price">${element.price}</div>`;
+      <div class="price">${element.price}</div>
+      <button>Add to cart</button>`;
       productsListHTML.appendChild(newProductElement);
     }
   }
