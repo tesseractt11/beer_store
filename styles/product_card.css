@@ -12,9 +12,8 @@ html{
 .title img {
     width: 25px;
 }
-.list_prproducts_listoduct .product_item img{
-    width: 70%;
-    filter: drop-shadow(0px 22px 20px #0009);
+.products_list .product_item img{
+    width: 100px;
 }
 .products_list{
     display: grid;
